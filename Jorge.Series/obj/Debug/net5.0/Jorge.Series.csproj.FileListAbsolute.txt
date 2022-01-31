@@ -1,0 +1,16 @@
+C:\Users\jorge.conceicao\Documents\Pessoal\DIO\Projeto_Dio\Jorge.Series\bin\Debug\net5.0\Jorge.Series.exe
+C:\Users\jorge.conceicao\Documents\Pessoal\DIO\Projeto_Dio\Jorge.Series\bin\Debug\net5.0\Jorge.Series.deps.json
+C:\Users\jorge.conceicao\Documents\Pessoal\DIO\Projeto_Dio\Jorge.Series\bin\Debug\net5.0\Jorge.Series.runtimeconfig.json
+C:\Users\jorge.conceicao\Documents\Pessoal\DIO\Projeto_Dio\Jorge.Series\bin\Debug\net5.0\Jorge.Series.runtimeconfig.dev.json
+C:\Users\jorge.conceicao\Documents\Pessoal\DIO\Projeto_Dio\Jorge.Series\bin\Debug\net5.0\Jorge.Series.dll
+C:\Users\jorge.conceicao\Documents\Pessoal\DIO\Projeto_Dio\Jorge.Series\bin\Debug\net5.0\ref\Jorge.Series.dll
+C:\Users\jorge.conceicao\Documents\Pessoal\DIO\Projeto_Dio\Jorge.Series\bin\Debug\net5.0\Jorge.Series.pdb
+C:\Users\jorge.conceicao\Documents\Pessoal\DIO\Projeto_Dio\Jorge.Series\obj\Debug\net5.0\Jorge.Series.csproj.AssemblyReference.cache
+C:\Users\jorge.conceicao\Documents\Pessoal\DIO\Projeto_Dio\Jorge.Series\obj\Debug\net5.0\Jorge.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge.conceicao\Documents\Pessoal\DIO\Projeto_Dio\Jorge.Series\obj\Debug\net5.0\Jorge.Series.AssemblyInfoInputs.cache
+C:\Users\jorge.conceicao\Documents\Pessoal\DIO\Projeto_Dio\Jorge.Series\obj\Debug\net5.0\Jorge.Series.AssemblyInfo.cs
+C:\Users\jorge.conceicao\Documents\Pessoal\DIO\Projeto_Dio\Jorge.Series\obj\Debug\net5.0\Jorge.Series.csproj.CoreCompileInputs.cache
+C:\Users\jorge.conceicao\Documents\Pessoal\DIO\Projeto_Dio\Jorge.Series\obj\Debug\net5.0\Jorge.Series.dll
+C:\Users\jorge.conceicao\Documents\Pessoal\DIO\Projeto_Dio\Jorge.Series\obj\Debug\net5.0\ref\Jorge.Series.dll
+C:\Users\jorge.conceicao\Documents\Pessoal\DIO\Projeto_Dio\Jorge.Series\obj\Debug\net5.0\Jorge.Series.pdb
+C:\Users\jorge.conceicao\Documents\Pessoal\DIO\Projeto_Dio\Jorge.Series\obj\Debug\net5.0\Jorge.Series.genruntimeconfig.cache
